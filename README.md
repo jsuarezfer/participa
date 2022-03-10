@@ -1,6 +1,6 @@
 # Participa
 
-Desde una base de datos sencilla (en formato Microsoft Access) se puede centralizar la gestión de una asociación con sus elementos más básicos. "Participa" está destinada a asociaciones pequeñas y también puede servir para entidades, empresas y proyectos de poco tamaño. La agilidad de la aplicación permite que las personas usuarias puedan gestionar de forma muy fácil muchos aspectos de la burocracia habitual. Incluso en el caso del tratamiento de la información económica (que no sustituye a sistemas más completos), permite que responsables de proyectos lleven unos controles fáciles y básicos.
+Desde una base de datos sencilla (en formato Microsoft Access) **participa.accdb** se puede centralizar la gestión de una asociación con sus elementos más básicos. "Participa" está destinada a asociaciones pequeñas y también puede servir para entidades, empresas y proyectos de poco tamaño. La agilidad de la aplicación permite que las personas usuarias puedan gestionar de forma muy fácil muchos aspectos de la burocracia habitual. Incluso en el caso del tratamiento de la información económica (que no sustituye a sistemas más completos), permite que responsables de proyectos lleven unos controles fáciles y básicos.
 
 La base de datos, incorpora algo de programación VBA (Visual Basic para aplicaciones) pero, en general, el mantenimiento es sencillo de manera que una persona con conocimientos básicos pueda incluso personalizarla. 
 
