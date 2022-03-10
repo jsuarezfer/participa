@@ -31,5 +31,3 @@ Anotaciones de las funciones
 #11 Persona usuaria: Las tablas que sirvan de apoyo a opciones de la base de datos y que no tengan un valor constante deben poder actualizarse.
 
 #12 Persona usuaria: Se generarán informes con los listados más importantes de cada opción del menú principal. Los informes deben permitir el copia y pega.
-
-#13 Persona usuaria: Un formulario permitirá configurar opciones básicas de la aplicación.
